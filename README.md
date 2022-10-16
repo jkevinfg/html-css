@@ -1,2 +1,2 @@
 # html-css
-practique html-css 
+practica para el taller de html - css
